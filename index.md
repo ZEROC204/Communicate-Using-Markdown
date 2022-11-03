@@ -4,10 +4,9 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
-- [x] List syntax is required
-- [x] This item is complete
-- [ ] This item is not complete
+- [x] Markdown is a lightweight markup language
+- [x] You can use it to add formatting elements to plaintext text documents.
+- [ ] Markdown is platform independent
 
-- [ ] Turn on GitHub Pages
-- [ ] Outline my portfolio
-- [ ] Introduce myself to the world
+- [ ] Dillinger is one of the best online Markdown editors
+- [ ] Communicate
